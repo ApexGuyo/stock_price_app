@@ -6,7 +6,7 @@ st.set_page_config(
 
 
 )
-
+st.image('OIP.jpg')
 
 footer_html = """<div style='text-align: center;'>
   <p>Developed ❤️ by Guyo </p>
